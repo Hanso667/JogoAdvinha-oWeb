@@ -1,9 +1,6 @@
 ### ---------------------------------------------------------  
 
-<link rel="stylesheet" href="src/css/style.css">
-<div class="img-readme">
 <img src="src/img/ShortcutIcon.png" width="100px">
-</div>
 
 ### ---------------------------------------------------------
 # Anagrama Online
@@ -18,7 +15,7 @@
 - Hanso667
 ### ---------------------------------------------------------
 # linguagens
- ![Static Badge](https://img.shields.io/badge/javascript-gray?logo=javascript)
- ![Static Badge](https://img.shields.io/badge/html-orange?logo=html5&logoColor=white)
- ![Static Badge](https://img.shields.io/badge/css-blue?logo=css3&logoColor=white)
+- ![Static Badge](https://img.shields.io/badge/javascript-gray?logo=javascript) 15,7%  
+- ![Static Badge](https://img.shields.io/badge/html-orange?logo=html5&logoColor=white) 25,6%
+- ![Static Badge](https://img.shields.io/badge/css-blue?logo=css3&logoColor=white) 58,7%
 ### ---------------------------------------------------------
